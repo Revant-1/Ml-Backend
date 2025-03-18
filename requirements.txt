@@ -5,3 +5,4 @@ joblib
 numpy
 pandas
 uvicorn
+scikit-learn
