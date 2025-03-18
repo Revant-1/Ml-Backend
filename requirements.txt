@@ -1,0 +1,7 @@
+fastapi
+pydantic
+h5py
+joblib
+numpy
+pandas
+uvicorn
